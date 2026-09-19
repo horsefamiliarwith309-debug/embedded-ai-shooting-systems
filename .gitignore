@@ -1,0 +1,33 @@
+# Build outputs
+Debug/
+Release/
+Objects/
+Listings/
+*.axf
+*.bin
+*.d
+*.elf
+*.hex
+*.lnp
+*.lst
+*.map
+*.o
+*.obj
+*.out
+*.su
+
+# IDE and user-local state
+.settings/
+.theia/
+.vscode/
+*.launch
+*.uvguix.*
+*.uvoptx
+*.user
+RTE/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
